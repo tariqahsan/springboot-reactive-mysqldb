@@ -1,0 +1,7 @@
+PUT localhost:8080
+{
+    "id": 7,
+    "customer_name":"Farzeen N Ahsan",
+    "customer_type":"Subscriber",
+    "customer_status":"Active"
+}

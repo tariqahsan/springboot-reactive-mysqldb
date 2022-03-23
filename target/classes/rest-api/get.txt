@@ -1,0 +1,6 @@
+POST localhost:8080
+{
+    "customer_name":"Farzeen Ahsan",
+    "customer_type":"Subscriber",
+    "customer_status":"Active"
+}
